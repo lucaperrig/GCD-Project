@@ -1,4 +1,4 @@
-#Contents of the repository
+# Contents of the repository
 
 This repo contains material that was created answering the requirements of the final project of the course "Cleaning Data". The data used as input can be found here:
 
