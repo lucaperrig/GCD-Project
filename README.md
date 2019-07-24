@@ -8,4 +8,4 @@ The file _averages.txt_ contains a tidy dataset displaying data from a wearable 
 
 The file _run_analysis.R_ contains a script that was used to generate _averages.txt_ from the raw data.
 
-The _CodeBook_ file details each variable that is displayed in the dataset.
+The _CodeBook_ file details each variable that is displayed in the dataset..
